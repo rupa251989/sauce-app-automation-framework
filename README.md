@@ -8,7 +8,7 @@ pytest --html=reports/result.html
 https://github.com/rupa251989/sauce-app-automation-framework/blob/main/documents/Test%20Plan%20Swag%20Labs.docx
 
 # Manual Test Scenarios and Test Cases
-
+https://github.com/rupa251989/sauce-app-automation-framework/blob/main/documents/Manual_Test-Case-SauceDemo.xlsx
 
 # Defect Log document
 https://github.com/rupa251989/sauce-app-automation-framework/blob/main/documents/Issues%20%26%20Defect%20Reporting.xlsx
