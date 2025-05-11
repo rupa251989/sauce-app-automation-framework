@@ -30,9 +30,6 @@ Includes utility functions, such as alert handling, to support test execution.
 
 **Test Execution**
 # To run the tests and generate an HTML report, you can use the following command:
-    bash
-    Copy
-    Edit
     pytest --html=reports/result.html
     
 This command executes all tests and outputs the results to an HTML file located in the reports/ directory.
