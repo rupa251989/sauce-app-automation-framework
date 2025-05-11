@@ -38,8 +38,11 @@ This command executes all tests and outputs the results to an HTML file located 
 
 **Key Notes**
 Python & Selenium Integration: Utilizes Selenium WebDriver for browser automation and Python for scripting.
+
 Pytest Framework: Employs pytest for structuring and executing test cases.
+
 Page Object Model (POM): Enhances maintainability by separating page-specific actions and elements into dedicated classes.
+
 Comprehensive Documentation: Provides detailed documents for test planning, manual test cases, and defect tracking.
 
 -------------------------------------------------------------------------------------------------------------------------
